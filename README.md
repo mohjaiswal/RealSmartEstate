@@ -1,5 +1,5 @@
 # Housing Rental Analysis for San Francisco
-![Moh Jaiswal](Images/6-4-challenge-image.png)
+![Moh Jaiswal](Unit-6-Homework-Asn/Images/6-4-challenge-image.png)
 ## Moh Jaiswal
 
 ## Introduction
